@@ -56,7 +56,7 @@ export default function Home() {
         {/* Features Section */}
         <div className="mt-20">
           <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">
-            Why Choose CopyCraft AI?
+            Why Choose INASpring?
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white rounded-lg p-6 shadow-sm">
